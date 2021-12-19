@@ -1,2 +1,2 @@
 # vTalk
-Video chatiing system- zoom clone
+Video chatting system- zoom clone
