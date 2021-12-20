@@ -41,10 +41,10 @@ function connectToNewUser(userId, stream) {
         addVideoStream(video, userVideoStream)
     })
     call.on('close', () => {
-        video.remove(ss1)
+            video.remove)
     })
 
-    peers[userId] = call
+peers[userId] = call
 }
 
 function addVideoStream(video, stream) {
